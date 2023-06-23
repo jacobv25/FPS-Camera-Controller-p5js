@@ -12,7 +12,6 @@ Features
 --------
 
 *   Full 360-degree view: Offers a complete range of motion for the user.
-*   High precision controls: Controls are extremely responsive for a better gaming experience.
 *   Easy integration: Can be easily integrated into existing p5.js games.
 
 Requirements
@@ -20,7 +19,6 @@ Requirements
 
 To run this project, you will need:
 
-*   [Node.js](https://nodejs.org/en/download/)
 *   [p5.js](https://p5js.org/download/)
 
 Installation
@@ -34,22 +32,7 @@ Installation
     
         cd FPS-Camera-Controller-p5js
     
-3.  Install the required dependencies:
-    
-        npm install
-    
-4.  Run the server:
-    
-        npm start
-    
-5.  Open your browser and visit `http://localhost:3000` to view the app.
-
-Usage
------
-
-After you've successfully started the server, you can integrate the FPS camera controller into your p5.js game. You'll need to instantiate the controller and then use the provided methods to control the camera.
-
-Detailed API documentation is available in the `docs` directory.
+3.  Open index.html in your browser.
 
 Contributing
 ------------
